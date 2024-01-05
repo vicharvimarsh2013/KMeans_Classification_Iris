@@ -51,9 +51,6 @@ The Iris dataset is a popular dataset in machine learning, containing informatio
 
 - List of contributors who have actively participated in the KMeans Classification Iris project.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - feel free to utilize the code and analysis for your own projects.
 
 ## Acknowledgments
 
